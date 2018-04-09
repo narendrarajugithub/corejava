@@ -14,6 +14,7 @@ public class MyCollections {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//THIS LINE IS ADDED BY SIVA
 		ArrayList<Integer> a=new ArrayList<Integer>();
 		a.add(1);
 		a.add(5);
